@@ -6,5 +6,3 @@
 - Everyone are requested to give proper names to their files.
 - When you merge the branch please delete it.
 - No repeated questions allowed.
-- Do at least 1 questions a day.
-- Assignment questions are not counted.
