@@ -1,3 +1,5 @@
+#Take n from the user and print a butterfly pattern.
+
 n = int(input("Enter n: "))
 
 for i in range(1, n + 1):

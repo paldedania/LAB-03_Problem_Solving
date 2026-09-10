@@ -1,3 +1,5 @@
+# n input lo aur alternate 0 aur 1 ka triangle print karo.
+
 n = int(input("Enter n: "))
 
 for i in range(1, n + 1):
