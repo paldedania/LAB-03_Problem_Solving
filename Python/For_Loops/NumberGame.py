@@ -63,6 +63,7 @@
 # SOLUTION BELOW
 # ==========================================
 
+
 n = int(input("Enter a positive integer: "))
 
 total_score = 0
