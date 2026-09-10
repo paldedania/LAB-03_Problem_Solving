@@ -6,3 +6,4 @@
 - Everyone are requested to give proper names to their files.
 - When you merge the branch please delete it.
 - No repeated questions allowed.
+- Minimum 5 question is compulsory on each topic for everyone.
