@@ -1,4 +1,4 @@
-# n input lo aur alternate 0 aur 1 ka triangle print karo.
+# n input lo aur alternate 0 aur 1 ka triangle print .
 
 n = int(input("Enter n: "))
 

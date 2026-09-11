@@ -1,4 +1,4 @@
-#Take n from the user and print an inverted triangle using stars.
+#Take n from the user and print an inverted triangle using star.
 
 n = int(input("Enter n: "))
 

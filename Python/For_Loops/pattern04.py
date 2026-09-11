@@ -1,4 +1,4 @@
-#Take n from the user and print a diamond where numbers increase and then decrease.
+#Take n from the user and print a diamond where numbers increase and then decreases.
 
 n = int(input("Enter n: "))
 

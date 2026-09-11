@@ -1,4 +1,4 @@
-#Take n from the user and print numbers in a pyramid pattern.
+#Take n from the user and print numbers in a pyramid patterns.
 
 n = int(input("Enter n: "))
 

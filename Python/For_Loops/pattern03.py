@@ -1,4 +1,4 @@
-#Take n from the user and print a butterfly pattern.
+#Take n from the user and print a butterfly patterns.
 
 n = int(input("Enter n: "))
 
