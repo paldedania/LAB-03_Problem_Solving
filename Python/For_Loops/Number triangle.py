@@ -19,7 +19,20 @@
 # 11
 # 0
 
-n = 9
+# n = 9
+# for i in range(0,n+1):
+#     for j in range(i):
+#         print(i ,end="")
+#     print(i)
+
+# for a in range(n-1,-1,-1):
+#     for b in range(a):
+#         print(a,end="")
+#     print(a)  
+
+# this is correct but we cant just ask for input so we can print for any number not for just 9
+
+n = int(input("Whats the number you want to enter: "))
 for i in range(0,n+1):
     for j in range(i):
         print(i ,end="")
@@ -29,5 +42,3 @@ for a in range(n-1,-1,-1):
     for b in range(a):
         print(a,end="")
     print(a)  
-
-
