@@ -24,7 +24,13 @@
 # the right method is simple 
 # if year%4==0 than print true , else false 
 
-year = int(input("Whats the year you want to check \n"))
+# year = int(input("Whats the year you want to check \n"))
 
-if year%4==0:
-    print(f"{year} is a leap year ")
+# if year%4==0:
+#     print(f"{year} is a leap year ")
+
+# True but the conditions are not true here as 100 is not a leap year but in this code it will give leap year so correct ans will be 
+year = int(input("Whats the year you want to check: "))
+
+if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
+    print(f"{year} is a leap year")
