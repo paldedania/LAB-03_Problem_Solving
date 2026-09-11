@@ -1,3 +1,3 @@
 - Here there will be collection of for loop questions.
-- Everyone are  suppose to add questions do not edit any existing questions and don't repeat any questions.
+- Everyone are  suppose to add questions do not edit ***you can only edit when the given solution is wrong*** any existing questions and don't repeat any questions.
 - We are suppose to make a library of questions for for_loops so keep questions unique and don't post like  this is better solution of a existing question. 
